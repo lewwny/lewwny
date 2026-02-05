@@ -37,5 +37,5 @@
 
 ### 📫 Me contacter
 
-- **LinkedIn :** [linkedin.com/in/leny-garcia](https://linkedin.com/in/TON_LIEN)
-- **Email :** `leny.garcia@student.42.fr`
+- **LinkedIn :** [linkedin.com/in/leny-garcia](https://www.linkedin.com/in/leny-garcia-a95488340/?locale=en_US)
+- **Email :** `lengarci@student.42.fr`
